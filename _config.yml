@@ -1,0 +1,8 @@
+title: Bbots
+description: A 2D simulation environment for arduinos and more
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
